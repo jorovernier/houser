@@ -1,0 +1,40 @@
+.step3 {
+    background-color: #e5f4ec;
+    height: 90vh;
+    width: 50vw;
+    display: flex;
+    flex-direction: column;
+}
+
+.next {
+    background-color: #3b5249;
+    color: white;
+    border: none;
+    text-decoration: none;
+    font-size: 12px;
+    font-weight: 700;
+    height: 3vh;
+    margin: 10px;
+}
+
+.back {
+    background-color: #3b5249;
+    color: white;
+    border: none;
+    text-decoration: none;
+    font-size: 12px;
+    font-weight: 700;
+    height: 3vh;
+    margin: 10px;
+}
+
+.comlpete {
+    background-color: #3b5249;
+    color: white;
+    border: none;
+    text-decoration: none;
+    font-size: 12px;
+    font-weight: 700;
+    height: 3vh;
+    margin: 10px;
+}

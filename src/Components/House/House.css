@@ -1,0 +1,33 @@
+.house {
+    background-color: #dedede;
+    width: 53vw;
+    margin: 10px 0px;
+    display: flex;
+    /* justify-content: space-around; */
+}
+
+.image {
+    max-height: 15vh;
+    height: 15vh;
+    max-width: 15vw;
+    width: 15vw;
+    margin: 10px;
+    display: flex;
+    align-self: center;
+    justify-self: center;
+}
+
+.fields {
+    width: 16vw;
+    margin: 5px;
+}
+
+.fields > div {
+    margin: 5px;
+}
+
+.delete {
+    display: flex;
+    align-self: flex-start;
+    margin: 5px;
+}

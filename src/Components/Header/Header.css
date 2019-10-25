@@ -1,0 +1,24 @@
+.header {
+    background-color: #519872;
+    color: white;
+    height: 10vh;
+    width: 100vw;
+    font-size: 32px;
+    font-weight: 700;
+    display: flex;
+    align-items: center;
+}
+
+.content {
+    display: flex;
+    align-items: center;
+    margin: 0px 310px;
+}
+
+.content > img {
+    max-height: 5vh;
+    height: 5vh;
+    max-width: 4vw;
+    width: 4vw;
+    margin: 0px 10px;
+}

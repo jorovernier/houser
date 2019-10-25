@@ -1,0 +1,43 @@
+.step1 {
+    background-color: #e5f4ec;
+    height: 90vh;
+    width: 50vw;
+    display: flex;
+    flex-direction: column;
+}
+
+.step1 > div {
+    display: flex;
+    flex-direction: column;
+}
+
+.n {
+    margin: 10px;
+    width: 15vw;
+}
+
+.a {
+    margin: 10px;
+    width: 35vw;
+}
+
+.csz {
+    display: flex;
+}
+
+.csz > div {
+    display: flex;
+    flex-direction: column;
+    margin: 10px;
+}
+
+.next {
+    background-color: #3b5249;
+    color: white;
+    border: none;
+    text-decoration: none;
+    font-size: 12px;
+    font-weight: 700;
+    height: 3vh;
+    margin: 10px;
+}

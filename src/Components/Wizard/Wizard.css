@@ -1,0 +1,24 @@
+.wizard {
+    background-color: #e5f4ec;
+}
+
+.add-cancel {
+    background-color: #e5f4ec;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 0px 10px;
+}
+
+.add-cancel > h2 {
+    margin: 10px 0px;
+}
+
+.cancel {
+    background-color: #fec2c2;
+    border: none;
+    text-decoration: none;
+    font-size: 12px;
+    font-weight: 700;
+    height: 3vh;
+}
